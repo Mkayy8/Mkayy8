@@ -14,7 +14,7 @@
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/mikun-oludairo-04a4321ba/">
-<img src="images/linkedin.png" alt="alternate text"
+<img src="Images/linkedin.png" alt="alternate text"
 width="30px" height="height">
 </a> 
 
