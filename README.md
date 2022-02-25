@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+- I am currently doing the Software Engineering Mentee 12 week Program with [Coding Black Females](https://codingblackfemales.com/)
 
 - 🔭 I’m currently working on building a Monopoly game for my Computer Science A-Level
 - 🌱 I’m currently learning Python, HTML, JavaScript, Front-End Development and much more!
